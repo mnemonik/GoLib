@@ -1,0 +1,2 @@
+# GoLib
+Go library
